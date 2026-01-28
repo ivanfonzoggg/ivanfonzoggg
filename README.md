@@ -6,7 +6,7 @@ I want to show off my testing skills
 
 Skills: Checklist / Test case / Bug report / Devtools / Postman/MySQL
 
-- 🔭 I’m currently working on this page. 
+
 
 
 
