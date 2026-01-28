@@ -1,6 +1,6 @@
 ### Hi there 👋, my name is Ivan
 #### I'm a beginner specialist in the field of testing
-![I'm a beginner specialist in the field of testing]
+
 
 I want to show off my testing skills
 
